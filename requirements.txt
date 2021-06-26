@@ -1,0 +1,6 @@
+torch==1.9.0
+torchvision==0.10.0
+hiddenlayer==0.3
+onnx==1.9.0
+graphviz==0.16
+torch_optimizer==0.1.0
